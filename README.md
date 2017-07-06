@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+@copyright = PiraticalViewTool::Renderer.copyright 'Connor Lindsey', 'All rights reserved'
+```
 
 ## Development
 
